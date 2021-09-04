@@ -5,7 +5,7 @@ export const config = {
         dialect: 'postgres' as Dialect,
         host: 'localhost',
         port: 5432,
-        username: 'postgres',
+        username: 'postgres-root',
         password: 'postgres',
         database: 'nest',
         logging: false,
